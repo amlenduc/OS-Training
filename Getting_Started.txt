@@ -1,0 +1,12 @@
+Pre-requisites:
+
+You need a windows based desktop/laptop with any browser install. Machine should be connected to internet. Following software needs to be installed on your workstation
+
+1. Install VS2015/VS2017
+https://www.visualstudio.com/downloads/ - Select community edition
+
+2. Download process Hacker from below location
+https://processhacker.sourceforge.io/downloads.php
+
+3.Debugging Tools for Windows.During installtion of SDK ,select the Debugging Tools for Windows box and clear all the other boxes
+https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
