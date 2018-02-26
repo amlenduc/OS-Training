@@ -1,0 +1,48 @@
+1.Navigate to your installation directory, and open WinDbg.exe
+2.On the File menu, choose Open Executable. In the Open Executable dialog box, navigate to the folder that contains notepad.exe (for example, C:\Windows\System32). For File name, enter notepad.exe. Click Open.
+3.Near the bottom of the WinDbg window, in the command line, enter this command:(Search Symbol path)
+.sympath srv\*.
+4.Enter this command, which tells WinDbg to do its initial finding and loading of symbol files:
+.reload
+5.To see the symbols for the Notepad.exe module, enter this command:
+x notepad!\*
+6.To put a breakpoint at notepad!WinMain, enter this command:
+
+bu notepad!WinMain
+
+To verify that your breakpoint was set, enter this command:
+
+bl
+7.To start Notepad running, enter this command:
+
+g
+
+Notepad runs until it comes to the WinMain function, and then breaks in to the debugger.
+
+To see a list of code modules that are loaded in the Notepad process, enter this command:
+
+lm
+8.To see a stack trace, enter this command:
+
+k
+9.To start Notepad running again, enter this command:
+
+g
+
+To break in to Notepad, choose Break from the Debug menu.
+
+10.To see a list of all threads in the Notepad process, enter this command (the tilde):
+
+11.To look at the stack trace for thread 0, enter these commands:
+
+~0s
+
+k
+
+12.To quit debugging and detach from the Notepad process, enter this command:
+
+qd
+
+++++++++++++++++++++++++++++++++++++++++++
+Repeat the above steps for a custom C++ program
+
