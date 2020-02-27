@@ -1,0 +1,11 @@
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\obj\Debug\netcoreapp3.0\Example3-ThreadAdv.csprojAssemblyReference.cache
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\obj\Debug\netcoreapp3.0\Example3-ThreadAdv.AssemblyInfoInputs.cache
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\obj\Debug\netcoreapp3.0\Example3-ThreadAdv.AssemblyInfo.cs
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.exe
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.deps.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.runtimeconfig.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.runtimeconfig.dev.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.dll
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\bin\Debug\netcoreapp3.0\Example3-ThreadAdv.pdb
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\obj\Debug\netcoreapp3.0\Example3-ThreadAdv.dll
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example3-ThreadAdv\obj\Debug\netcoreapp3.0\Example3-ThreadAdv.pdb

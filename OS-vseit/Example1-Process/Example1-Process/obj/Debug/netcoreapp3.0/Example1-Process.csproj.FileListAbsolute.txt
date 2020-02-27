@@ -1,0 +1,11 @@
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.exe
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.deps.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.runtimeconfig.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.runtimeconfig.dev.json
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.dll
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\bin\Debug\netcoreapp3.0\Example1-Process.pdb
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\obj\Debug\netcoreapp3.0\Example1-Process.csprojAssemblyReference.cache
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\obj\Debug\netcoreapp3.0\Example1-Process.AssemblyInfoInputs.cache
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\obj\Debug\netcoreapp3.0\Example1-Process.AssemblyInfo.cs
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\obj\Debug\netcoreapp3.0\Example1-Process.dll
+C:\Users\choudam\source\repos\vseit\Example1-Process\Example1-Process\obj\Debug\netcoreapp3.0\Example1-Process.pdb
